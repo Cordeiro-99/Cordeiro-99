@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Bruno Cordeiro
 
 💻 Web Developer em início de carreira  
-🚀 Apaixonado por desenvolvimento web e APIs  
+🚀 Apaixonado por desenvolvimento web e aprender  
 📍 Portugal
 
 ---
