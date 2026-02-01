@@ -2,7 +2,7 @@
 
 💻 Web Developer em início de carreira  
 🚀 Apaixonado por desenvolvimento web e aprender  
-📍 Portugal
+📍 Lisboa 
 
 ---
 
