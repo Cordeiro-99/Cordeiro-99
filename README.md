@@ -39,19 +39,10 @@
 - Integração de APIs externas
 - CRUD completo com autenticação
 
-## 📊 GitHub Stats
-
-![Cordeiro GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cordeiro-99&show_icons=true&theme=dark&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cordeiro-99&layout=compact&theme=dark&cache_seconds=1800)
-
-
----
-
 ## 📫 Contacto
 
 - 📧 Email: **brunocordeiro1999@sapo.pt**
-- 🌐 Portfolio: *em construção* 😉
+- 🌐 Portfolio: *em construção* 
 
 ---
 
