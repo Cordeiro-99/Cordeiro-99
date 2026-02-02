@@ -1,17 +1,23 @@
 # 👋 Olá, eu sou o Bruno Cordeiro
 
-💻 Web Developer em início de carreira  
-🚀 Apaixonado por desenvolvimento web e aprender  
-📍 Lisboa 
+### 💻 Web Developer em início de carreira  
+### 🚀 Apaixonado por desenvolvimento web e aprendizagem contínua  
+### 📍 Lisboa  
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Formação em **Web Development**
-- 🌱 Atualmente a aprender e aprofundar **JavaScript e React**
-- 🧠 Interesse em **front-end, back-end e projetos full stack**
-- 🎯 Objetivo: começar a trabalhar profissionalmente na área de desenvolvimento web
+🎓 **Formação em Web Development**  
+
+🌱 Atualmente a aprofundar conhecimentos em  
+**JavaScript e React**  
+
+🧠 Interesse em  
+**Front-end, Back-end e projetos Full Stack**  
+
+🎯 **Objetivo profissional:**  
+Iniciar carreira como desenvolvedor web e evoluir continuamente na área  
 
 ---
 
@@ -29,20 +35,22 @@
 
 ## 🚀 Projetos em destaque
 
-🔹 **Projetos Web**
-- 🌍 Aplicações com consumo de APIs (weather, currency, etc.)
-- 🛒 Loja online com PHP + MySQL
-- 🎫 Sistema de gestão de eventos e compra de bilhetes
+### 🔹 Projetos Web
+🌍 Aplicações com consumo de APIs  
+🛒 Loja online com **PHP + MySQL**  
+🎫 Sistema de gestão de eventos e compra de bilhetes  
 
-🔹 **Projetos de estudo**
-- Prática de React (Vite)
-- Integração de APIs externas
-- CRUD completo com autenticação
+### 🔹 Projetos de Estudo
+⚛️ Prática com **React (Vite)**  
+🔗 Integração de APIs externas  
+🔐 CRUD completo com autenticação  
+
+---
 
 ## 📫 Contacto
 
-- 📧 Email: **brunocordeiro1999@sapo.pt**
-- 🌐 Portfolio: *em construção* 
+📧 **Email:** brunocordeiro1999@sapo.pt  
+🌐 **Portfolio:** *em construção*  
 
 ---
 
